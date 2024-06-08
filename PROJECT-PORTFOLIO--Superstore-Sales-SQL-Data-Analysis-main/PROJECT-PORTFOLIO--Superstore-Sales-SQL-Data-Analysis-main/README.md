@@ -4,6 +4,4 @@ In this Superstore Sales SQL Data Analysis project, an exploratory data analysis
 
 The link to the original dataset on Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-The 2 dashboards and its contents are in the main source file below: https://10az.online.tableau.com/#/site/micheltableau/projects/338892?:origin=card_share_link
-
 Thank you !
